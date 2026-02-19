@@ -6,3 +6,6 @@ This project presents an interactive Power BI dashboard analyzing sales performa
 - Excel  
 - Data Visualization  
 - Business Analysis  
+
+## Dashboard Preview
+![Dashboard](sales_dashboard_preview.jpg)
